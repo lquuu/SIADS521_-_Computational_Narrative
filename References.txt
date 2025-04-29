@@ -1,0 +1,31 @@
+References
+Listed in order of use
+
+pytz
+https://stackoverflow.com/questions/13866926/is-there-a-list-of-pytz-timezones
+
+
+
+Heart Health
+Resting & Exercise Heart Rate: https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates
+
+3 Exercise Zones: https://www.webmd.com/fitness-exercise/what-to-know-heart-rate-fat-burning-cardio
+
+Research (Correlation between lower RHR and exercise HR): https://www.heartscope.com.au/why-does-the-heart-rate-increase-during-exercise/#:~:text=or%20light%20jogging.-,Fitness%20Level,cardiovascular%20systems%20are%20more%20efficient.
+
+Research (Correlation between resting HR and health): https://www.health.harvard.edu/blog/your-resting-heart-rate-can-reflect-your-current-and-future-health-201606172482#:~:text=%22In%20certain%20cases%2C%20a%20lower%20resting%20heart,cardiac%20events%20like%20heart%20attacks%2C%22%20says%20Dr.&text=In%20fact%2C%20research%20has%20found%20that%20a,for%20cardiovascular%20disease%20and%20even%20early%20death.
+
+The Importance of Cool-Downs: https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20045517
+
+Cardio Exercise: https://www.healthline.com/health/cardio-everyday#about-cardio
+
+Fat-Burning vs. Cardio: https://www.webmd.com/fitness-exercise/what-to-know-heart-rate-fat-burning-cardio
+
+
+
+Plotly
+Linear and Non-Linear Trendlines in Python: https://plotly.com/python/linear-fits/
+CSS Colors: https://i.sstatic.net/xRwWi.png
+Colorblind "D3" Plotly: https://github.com/plotly/dash-sample-apps/issues/450
+Discrete Colors: https://plotly.com/python/discrete-color/
+
