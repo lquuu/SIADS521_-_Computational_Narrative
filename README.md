@@ -1,4 +1,4 @@
-# 🏃‍♀️ Assignment 4: Computational Narrative with Strava Data
+# 🏃‍♀️ Computational Narrative with Strava Data
 
 ### 📌 Project Overview
 This project is a data science exploration of my professor's personal Strava activity data, using Python and interactive visualizations with Plotly. The aim was to clean and analyze GPS-based workout data, uncover trends across running and cycling sessions, and build compelling visual narratives with interactivity and clarity in mind.
